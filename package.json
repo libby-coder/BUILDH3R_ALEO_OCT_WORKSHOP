@@ -1,0 +1,17 @@
+{
+  "name": "libby_aleo_project",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@provablehq/sdk": "^0.7.0",
+    "core-js": "^3.38.1"
+  }
+}
